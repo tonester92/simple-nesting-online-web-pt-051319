@@ -7,7 +7,7 @@ def hopper
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "LISP"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
