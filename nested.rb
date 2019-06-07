@@ -27,7 +27,7 @@ def alan_kay_is_known_for
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "Abstraction"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
@@ -49,7 +49,7 @@ def dennis_ritchies_language
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "Abstraction"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
@@ -69,7 +69,7 @@ def adding_matz
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "Abstraction"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
