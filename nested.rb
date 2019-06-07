@@ -96,7 +96,7 @@ def changing_alan
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "Abstraction"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
@@ -121,7 +121,7 @@ def adding_to_dennis
         },
         :alan_kay => {
           :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => ["Inheritance", "Abstraction"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
